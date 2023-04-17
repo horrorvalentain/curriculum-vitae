@@ -1,0 +1,17 @@
+.button {
+    color : black;
+    background-color: red;
+    border : 0,5 solid black;
+    border-radius : 100px solid black;
+    padding : 5px
+
+}
+
+.button:hover {
+color : red;
+background : black;
+border : o,5px solid red;
+border-radius : 100px;
+padding : 5px
+
+}
